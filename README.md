@@ -15,5 +15,5 @@ LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/sohailhaider/">So
 ### My Github Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sohailhaider&show_icons=true&theme=radical&count_private=true&line_height=46" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailhaider&count_private=true&theme=radical&langs_count=7>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailhaider&count_private=true&theme=radical">
 </p>
