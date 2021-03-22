@@ -12,5 +12,5 @@ Hey, its Sohail Haider. I'm a Lead Software Engineer at Averox Solutions Limited
 ### My Github Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sohailhaider&show_icons=true&theme=radical&count_private=true" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailhaider&count_private=true&theme=radical">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailhaider&count_private=true&theme=radical">
 </p>
