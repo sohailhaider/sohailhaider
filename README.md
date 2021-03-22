@@ -6,7 +6,7 @@ Hey, its Sohail Haider. I'm a Lead Software Engineer at Averox Solutions Limited
 Resume: <a target="_blank" href="https://drive.google.com/file/d/1WerPKwnGVP6at5l8mDDTCsgBQ_UJWziu/view?usp=sharing">Sohail Haider - Resume</a>
 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/sohailhaider/">Sohail Haider</a>
 - 🔭 I usually work with GraphQL/REST, Prisma, React, Redux/Redux Thunk & AWS Amplify (dynamo, lambdas etc..).
-- 👯 I’m looking to collaborate on any ML or AI realated project(especially if they looking for some js implementation).
+- 👯 I’m looking to collaborate on open-source projects including CNTK, NDNsim and related projects, have my own repository on Learning algorithms like Apriori. Plus would be highly interested in implementing any algos/paper in nodejs environment. 
 - 💬 Ask me about react, graphql, rest, nodejs, prisma, codeigniter.
 - 📫 How to reach me: <a href="mailto:sohailhaider@icloud">sohailhaider@icloud.com</a>
 - 😄 Pronouns: he/him/his
