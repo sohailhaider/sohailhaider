@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sohailhaider&column=4&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sohailhaider&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # Hi there 👋
