@@ -2,7 +2,8 @@
 
 ### Quick Get to know
 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/sohailhaider/">Sohail Haider</a>
-- 🔭 I usually work with Nextjs, GraphQL/REST, Prisma, React & AWS CDK & Amplify (dynamo, lambdas etc..).
+- Big Fan SOLID, 12 F and Gang of four design principles.
+- 🔭 I usually work with Nextjs/React, GraphQL/REST and AWS service with focus on scalable coding and microservices Design.
 - 👯 I’m looking to collaborate on open-source projects including CNTK, NDNsim and related projects, have my own repository on Learning algorithms like Apriori. Plus would be highly interested in implementing any algos/paper in nodejs environment. 
 - 💬 Ask me about next, react, graphql, rest, nodejs, prisma, codeigniter.
 - 📫 How to reach me: <a href="mailto:sohailhaider@icloud">sohailhaider@icloud.com</a>
