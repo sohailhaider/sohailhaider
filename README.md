@@ -5,7 +5,7 @@ LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/sohailhaider/">So
 - Big Fan SOLID, 12 F and Gang of four design principles.
 - 💬 Ask me about nextjs, react, ***architecting/developing on AWS*** (recommend services/design to scale your app), graphql, rest, nodejs, codeigniter.
 - 🔭 I usually work with Nextjs/React, GraphQL/REST, Java/Scala and AWS service with focus on scalable coding and microservices Design.
-- 👯 I’m looking to collaborate on open-source projects including CNTK, NDNsim and related projects, have my own repository on Learning algorithms like Apriori. Plus would be highly interested in implementing any algos/paper in nodejs environment. 
+- 👯 I’m looking to collaborate on open-source project. Already had some interests in CNTK, NDNsim and related projects, some side project repos like Apriori. Plus would be highly interested in implementing any algos/paper in nodejs environment. 
 - 📫 How to reach me: <a href="mailto:sohailhaider@icloud">sohailhaider@icloud.com</a>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Full time DOTA & cricket lover.
