@@ -8,7 +8,7 @@ LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/sohailhaider/">So
 - 👯 I’m looking to collaborate on open-source project. Already had some interests in CNTK, NDNsim and related projects, some side project repos like Apriori. Plus would be highly interested in implementing any algos/paper in nodejs environment. 
 - 📫 How to reach me: <a href="mailto:sohailhaider@icloud">sohailhaider@icloud.com</a>
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Full time DOTA & cricket lover.
+- ⚡ Fun fact: Full time DOTA/WoW & cricket lover.
 
 ### My Github Stats:
 <p align="left">
